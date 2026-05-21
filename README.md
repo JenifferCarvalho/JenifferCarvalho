@@ -66,7 +66,7 @@ Estou sempre em busca de crescimento profissional e novos desafios na área de T
 
 <p align="center">
   <a href="https://sbstecnologiamovel">
-    <img src="https://via.placeholder.com/300x160.png?text=SBS+Tecnologia+Movel" width="300px">
+    <img src="sbs_02.jpg" width="300px">
   </a>
 </p>
 
@@ -78,7 +78,7 @@ Estou sempre em busca de crescimento profissional e novos desafios na área de T
 
 <p align="center">
   <a href="http://nutrianaclaraalmeida">
-    <img src="https://via.placeholder.com/300x160.png?text=Nutri+Ana+Clara+Almeida" width="300px">
+    <img src="nutricionista_01.jpg" width="300px">
   </a>
 </p>
 
