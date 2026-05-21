@@ -3,7 +3,7 @@
 
 
 💻 Desenvolvedora Full Stack | Suporte Técnico | Help Desk  
-
+</h1>
 <br>
 
 <img src="https://i.gifer.com/7efs.gif" width="220px">
