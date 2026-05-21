@@ -1,12 +1,14 @@
-<h1 align="center">👋 Olá, eu sou a Jeniffer Carvalho</h1>
+<div align="center">
 
-<p align="center">
-  <b>💻 Desenvolvedora Full Stack | Suporte Técnico</b>
-</p>
+<h1>👋 Olá, eu sou a Jeniffer Carvalho</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="280px">
-</p>
+<b>💻 Desenvolvedora Full Stack | Suporte Técnico</b>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="260px">
+
+</div>
 
 ---
 
@@ -28,126 +30,27 @@
 
 ---
 
-## 🎀 Ambiente de Trabalho
+## 🌈 Ambiente de Trabalho
 
-<p align="center">
-┌──────────────────────────────┐<br>
-│ 💗 WORKSTATION FEMININA TECH │<br>
-│ 💻 coding • learning • growing │<br>
-└──────────────┬───────────────┘<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│<br>
-┌──────────────▼───────────────┐<br>
-│ ⚡ DEV MODE ON               │<br>
-│ 🚀 build • debug • deploy    │<br>
-└──────────────────────────────┘
-</p>
+<div align="center">
 
----
+<div style="background: linear-gradient(135deg,#7C3AED,#EC4899); padding:20px; border-radius:15px; width:80%;">
 
-## 🎮 Mini Game Tech
+💻 WORKSTATION FEMININA TECH  
+──────────────────────────────  
+coding • learning • growing  
+──────────────────────────────  
+⚡ DEV MODE ON  
+🚀 build • debug • deploy  
 
-<p align="center">
-  💻 <b>Hacker Terminal Challenge</b><br><br>
-</p>
+</div>
 
-<p align="center">
-
-<a href="https://play2048.co/" target="_blank">
-  <img src="https://img.shields.io/badge/JOGAR-2048%20DEV%20MODE-7C3AED?style=for-the-badge&logo=gamepad&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-  🎯 Um jogo leve de lógica e estratégia — estilo dev thinking 🧠
-</p>
+</div>
 
 ---
 
-## 📊 Experiência Profissional
+## 🎮 Tech Mini Game
 
-- 🖥️ Suporte técnico (help desk), resolução de problemas em sistemas, computadores e impressoras  
-- 🖨️ Manutenção básica de impressoras (cartuchos, falhas e suporte operacional)  
-- 📊 Assistente Administrativo e Financeiro, organização de rotinas e processos internos  
-- 💳 Controle de pagamentos e apoio financeiro operacional  
-- 🔧 Suporte ao gestor de TI em sistemas internos e incidentes técnicos  
+<div align="center">
 
----
-
-## 📌 Projetos
-
-### 💻 SBS Tecnologia Móvel
-
-<table>
-  <tr>
-    <td width="200">
-      <img src="sbs_02.jpg" width="180px">
-    </td>
-    <td>
-
-🧠 <b>Projeto institucional de tecnologia e soluções móveis</b>
-
-✔ Site institucional  
-✔ Foco em serviços e suporte  
-✔ Interface simples e profissional  
-
-🔗 https://sbstecnologiamovel
-
-    </td>
-  </tr>
-</table>
-
----
-
-### 💻 Nutri Ana Clara Almeida
-
-<table>
-  <tr>
-    <td width="200">
-      <img src="nutricionista_01.jpg" width="180px">
-    </td>
-    <td>
-
-🧠 <b>Projeto institucional na área da saúde e nutrição</b>
-
-✔ Apresentação profissional  
-✔ Layout informativo  
-✔ Foco em serviços e contato  
-
-🔗 http://nutrianaclaraalmeida
-
-    </td>
-  </tr>
-</table>
-
----
-
-## 📫 Contato
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jeniffercarvalho" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" />
-</a>
-
-<a href="mailto:jeni.silva.sj@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" />
-</a>
-
-<a href="https://wa.me/5521994267733" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" />
-</a>
-
-</p>
-
----
-
-## 🎯 Objetivo Profissional
-
-Atuar na área de tecnologia da informação ou suporte técnico, contribuindo com soluções eficientes, aprendizado contínuo e evolução profissional.
-
----
-
-<p align="center">
-  ⭐ “Tecnologia é transformar problemas em soluções com criatividade e propósito.” ⭐
-</p>
+💻 <b>Desafio de Programação</b>
