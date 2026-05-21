@@ -4,6 +4,10 @@
 
 💻 Desenvolvedora Full Stack | Suporte Técnico | Help Desk  
 
+<br>
+
+<img src="https://i.gifer.com/7efs.gif" width="220px">
+
 </div>
 
 ---
@@ -72,21 +76,20 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 Atuar na área de tecnologia da informação ou suporte técnico, contribuindo com soluções eficientes, aprendizado contínuo e evolução profissional.
 
 ---
-
 ## 📫 Contato
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jeniffercarvalho">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="35">
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:jeni.silva.sj@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="35">
+  <img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://wa.me/5521994267733">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="35">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 </p>
