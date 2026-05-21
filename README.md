@@ -1,141 +1,58 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Portfólio</title>
+# 👋 Olá, seja bem-vindo!
 
-<style>
-    body {
-        margin: 0;
-        font-family: Arial, sans-serif;
-        background: #0f172a;
-        color: white;
-        display: flex;
-        justify-content: center;
-    }
+## 💻 Desenvolvedora Full Stack | Suporte TI
 
-    .container {
-        width: 100%;
-        max-width: 420px;
-        padding: 30px 20px;
-        text-align: center;
-    }
+---
 
-    /* HEADER */
-    .header {
-        margin-top: 20px;
-    }
+### 🧠 Sobre mim
 
-    .wave {
-        font-size: 28px;
-        animation: wave 1.5s infinite;
-        display: inline-block;
-    }
+Profissional com experiência em **suporte técnico, help desk e rotinas administrativas**, além de conhecimentos em desenvolvimento web.
 
-    @keyframes wave {
-        0% { transform: rotate(0deg); }
-        25% { transform: rotate(20deg); }
-        50% { transform: rotate(0deg); }
-        75% { transform: rotate(20deg); }
-        100% { transform: rotate(0deg); }
-    }
+Foco em resolver problemas, otimizar processos e criar soluções eficientes.
 
-    h1 {
-        margin: 10px 0 5px;
-        font-size: 22px;
-    }
+---
 
-    h2 {
-        margin: 0;
-        font-size: 14px;
-        font-weight: normal;
-        color: #94a3b8;
-    }
+### ⚙️ Tecnologias
 
-    /* TECNOLOGIAS */
-    .tech {
-        margin-top: 40px;
-        background: #1e293b;
-        padding: 20px;
-        border-radius: 15px;
-    }
+<div align="center">
 
-    .tech h3 {
-        margin-bottom: 15px;
-    }
-
-    .icons {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 12px;
-    }
-
-    .box {
-        background: #0f172a;
-        padding: 10px;
-        border-radius: 10px;
-        font-size: 14px;
-        border: 1px solid #334155;
-    }
-
-    /* SOBRE */
-    .about {
-        margin-top: 30px;
-        font-size: 14px;
-        color: #cbd5e1;
-        line-height: 1.5;
-    }
-
-    /* BOTÃO */
-    .btn {
-        margin-top: 25px;
-        display: inline-block;
-        padding: 10px 15px;
-        background: #38bdf8;
-        color: black;
-        border-radius: 10px;
-        text-decoration: none;
-        font-weight: bold;
-    }
-</style>
-
-</head>
-
-<body>
-
-<div class="container">
-
-    <!-- HEADER -->
-    <div class="header">
-        <div class="wave">👋</div>
-        <h1>Olá, seja bem-vindo</h1>
-        <h2>Desenvolvedora Full Stack | Suporte TI</h2>
-    </div>
-
-    <!-- TECNOLOGIAS -->
-    <div class="tech">
-        <h3>Tecnologias</h3>
-        <div class="icons">
-            <div class="box">JavaScript</div>
-            <div class="box">React</div>
-            <div class="box">Node.js</div>
-            <div class="box">MySQL</div>
-            <div class="box">Git</div>
-            <div class="box">GitHub</div>
-        </div>
-    </div>
-
-    <!-- SOBRE -->
-    <div class="about">
-        Profissional com experiência em suporte técnico, administração e desenvolvimento web,
-        focada em resolver problemas e criar soluções eficientes.
-    </div>
-
-    <!-- BOTÃO -->
-    <a class="btn" href="#">Ver projetos</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 </div>
 
-</body>
-</html>
+---
+
+### 📊 Experiência
+
+- Suporte técnico e Help Desk  
+- Manutenção de computadores e sistemas  
+- Atendimento a usuários internos  
+- Controle administrativo e financeiro  
+- Apoio direto à equipe de TI  
+
+---
+
+### 📂 Projetos
+
+- 🔹 Sistema de portfólio pessoal (HTML/CSS/JS)
+- 🔹 Projeto institucional fictício (ex: nutricionista)
+- 🔹 Sistemas de suporte e organização interna
+
+---
+
+### 📫 Contato
+
+- 💼 LinkedIn: [seu-link-aqui]
+- 📧 Email: seuemail@exemplo.com
+- 📍 Belford Roxo - RJ
+
+---
+
+### 🚀 Status
+
+🟢 Disponível para oportunidades em TI / Desenvolvimento
