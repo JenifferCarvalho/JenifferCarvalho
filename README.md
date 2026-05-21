@@ -32,11 +32,15 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 
 ## 📊 Experiência Profissional
 
-- Suporte técnico (Help Desk) – sistemas, computadores e usuários  
-- Impressoras (instalação e resolução de erros básicos)  
-- Assistente Administrativo e Financeiro  
-- Controle de pagamentos e rotinas financeiras  
-- Apoio ao setor de TI em sistemas internos  
+### 🏢 :contentReference[oaicite:0]{index=0}  
+ 2018 – 2022  
+💼 **Assistente Administrativo e Financeiro | Suporte Técnico (Help Desk)**
+
+- 💻 Suporte técnico (Help Desk) para sistemas, computadores e usuários  
+- 🖨️ Instalação e manutenção básica de impressoras e resolução de erros  
+- 📊 Apoio ao setor administrativo e financeiro  
+- 💰 Controle de pagamentos e rotinas financeiras  
+- 🛠️ Suporte em sistemas internos da empresa  
 
 ---
 
