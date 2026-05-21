@@ -85,29 +85,20 @@ Atuar como profissional de TI ou suporte técnico, contribuindo com soluções e
 ## 📫 Contato
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Vamos+nos+conectar+🚀;Disponível+para+novas+oportunidades" />
-</p>
-
-<p align="center">
 
 <a href="https://www.linkedin.com/in/jeniffercarvalho" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
 
 <a href="mailto:jeni.silva.sj@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/E-mail-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
 </a>
 
 <a href="https://wa.me/5521994267733" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111827" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" />
 </a>
 
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeniffercarvalho&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
----
 
 <p align="center">
   ⭐ "Tecnologia é transformar problemas em soluções." ⭐
