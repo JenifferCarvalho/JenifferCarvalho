@@ -82,10 +82,12 @@ Atuar na área de Tecnologia da Informação como:
 ## 📈 Experiência
 
 **R11 Comércio de Peças e Acessórios (2018 – 2022)**  
-- Administrativo  
-- Financeiro  
-- Suporte técnico interno  
-- Atendimento ao cliente  
+
+- Rotinas administrativas e organização de processos
+- Controle de documentos e apoio em rotinas financeiras
+- Suporte técnico interno em computadores, sistemas e impressoras
+- Atendimento ao cliente e suporte aos colaboradores
+- Apoio na resolução de problemas operacionais do dia a dia
 
 ---
 
