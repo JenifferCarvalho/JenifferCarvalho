@@ -50,17 +50,19 @@ coding • learning • growing
 ---
 
 ## 🎮 Tech Mini Game
-
 <div align="center">
 
 💻 <b>Desafio de Programação</b>
 
+```javascript
 function login(user, pass) {
-if(user = "admin") {
-return "acesso liberado";
+  if (user = "admin") {
+    return "acesso liberado";
+  }
+  return "erro";
 }
-return "erro";
-}
+
+
 
 🧠 Encontre o erro como uma dev real 💡
 
