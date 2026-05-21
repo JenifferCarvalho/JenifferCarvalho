@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/developer.gif" width="220px">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220px">
 
 </div>
 
