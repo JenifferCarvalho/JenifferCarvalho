@@ -1,6 +1,6 @@
-<div align="center">
-
-# 👋 Olá, eu sou a Jeniffer Carvalho  
+<h1 align="center">
+  👋 Olá, eu sou a Jeniffer Carvalho
+</h1>
 
 💻 Desenvolvedora Full Stack | Suporte Técnico | Help Desk  
 
@@ -26,15 +26,6 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,git,github,html,css,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
