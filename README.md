@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou a Jeniffer Carvalho</h1>
 
 <p align="center">
-  <b>💻 Analista de TI | Suporte Técnico | Desenvolvimento em evolução</b>
+  <b>💻 Desenvolvedora Full Stack | Suporte Técnico </b>
 </p>
 
 <p align="center">
@@ -51,11 +51,12 @@ Estou sempre em busca de crescimento profissional e novos desafios na área de T
 
 ## 📊 Experiência Profissional
 
-- 🖥️ Suporte Técnico e Help Desk  
-- 🖨️ Manutenção de impressoras e sistemas internos  
-- 📊 Assistente Administrativo e Financeiro  
-- 💳 Controle de pagamentos e rotinas administrativas  
-- 🔧 Diagnóstico e resolução de problemas técnicos  
+- 🖥️ Suporte técnico ao usuário (help desk), auxiliando na resolução de problemas com sistemas, computadores e impressoras  
+- 🖨️ Apoio na manutenção básica de impressoras e equipamentos de escritório (troca de cartuchos, identificação de falhas e suporte ao funcionamento)  
+- 📊 Atuação como Assistente Administrativo e Financeiro, com organização de rotinas administrativas e apoio operacional  
+- 💳 Controle e apoio em processos financeiros, incluindo organização de pagamentos e rotinas internas da empresa  
+- 🔧 Suporte ao gestor de TI em demandas do dia a dia, auxiliando na operação de sistemas internos e resolução de incidentes  
+
 
 ---
 
