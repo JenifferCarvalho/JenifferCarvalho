@@ -1,34 +1,19 @@
-<div align="center">
-
-<table>
-<tr>
-
-<td>
-<img src="perfil_01.jpg" width="120" style="border-radius:50%;" />
-</td>
-
-<td align="left">
+<img src="perfil_01.jpg" width="110" align="left" style="border-radius:50%; margin-right:15px;" />
 
 # Jeniffer Carvalho  
 💻 **Desenvolvedora Full Stack | Suporte Técnico**
 
-</td>
-
-</tr>
-</table>
-
-</div>
+<br>
 
 ---
 
 ## 👋 Sobre mim
-## 👋 Sobre mim
 
-Profissional da área de Tecnologia da Informação, com foco em desenvolvimento web e suporte técnico.
+Profissional da área de Tecnologia da Informação, com foco em desenvolvimento web e suporte técnico em sistemas.
 
-Atuação voltada para criação de soluções, desenvolvimento de aplicações e suporte a sistemas, com interesse constante em evolução técnica e boas práticas de programação.
+Atuação voltada para criação de soluções, desenvolvimento de aplicações e suporte a sistemas, com foco em boas práticas de programação e melhoria contínua.
 
-Perfil organizado, proativo e com facilidade para adaptação a novas tecnologias e ambientes de trabalho.
+Perfil organizado, proativo e com facilidade de adaptação a novas tecnologias e ambientes de trabalho.
 
 ---
 
@@ -61,14 +46,10 @@ Atuar na área de Tecnologia da Informação como:
 ### 💻 SB Tecnologia Móvel  
 🔗 http://sbstecnologiamovel  
 
-Projeto institucional voltado para tecnologia, com foco em apresentação de serviços e soluções digitais.
-
 ---
 
 ### 🥗 Nutri Ana Clara Almeida  
 🔗 http://nutrianaclaraalmeida  
-
-Projeto institucional na área de nutrição, com foco em apresentação profissional e serviços ao cliente.
 
 ---
 
@@ -76,17 +57,18 @@ Projeto institucional na área de nutrição, com foco em apresentação profiss
 
 **R11 Comércio de Peças e Acessórios (2018 – 2022)**  
 
-- Rotinas administrativas e organização de processos  
+- Rotinas administrativas  
 - Controle de documentos e apoio financeiro  
-- Suporte técnico interno em computadores, sistemas e impressoras  
-- Atendimento ao cliente e suporte operacional  
+- Suporte técnico interno em sistemas e computadores  
+- Atendimento operacional interno  
 
 ---
 
 ## ✨ Contato
 
-- LinkedIn: linkedin.com/in/jeniffercarvalho  
-- Email: jeni.silva.sj@gmail.com  
+- 📞 (21) 99426-7733  
+- 🔗 linkedin.com/in/jeniffercarvalho  
+- ✉️ jeni.silva.sj@gmail.com  
 
 ---
 
