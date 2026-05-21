@@ -1,42 +1,33 @@
-<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu portfólio!</h1>
+<h1 align="center">👋 Olá, eu sou a Jeniffer Carvalho</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <b>💻 Analista de TI | Suporte Técnico | Desenvolvimento em evolução</b>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px">
 </p>
 
 ---
 
-## 💻 Sobre mim
-
-┌───────────────────────────────┐
-│ 👩‍💻 Profissional de TI │
-│ 🎯 Foco: Suporte & Dev │
-│ 🚀 Evoluindo constantemente │
-└───────────────────────────────┘
-
-
-Sou uma profissional da área de Tecnologia da Informação, com experiência em suporte técnico, rotinas administrativas e apoio a sistemas internos.
+## 🚀 Sobre mim
+┌──────────────────────────────────────────────┐
+│ 👩‍💻 Profissional de Tecnologia da Informação │
+│ 🎯 Suporte Técnico | Help Desk | Sistemas │
+│ 📈 Foco em evolução constante │
+│ 💡 Apaixonada por tecnologia e resolução de problemas │
+└──────────────────────────────────────────────┘
 
 ---
 
-## 🖥️ Meu Setup / Área de Trabalho
 
-    ______________________
-   |                      |
-   |      DESKTOP        |
-   |______________________|
-         |        |
-     ____|________|____
-    |   💻 PC DEV       |
-    |___________________|
-          |      |
-        (____)(____)
+Atuo na área de Tecnologia da Informação com experiência em suporte técnico, manutenção de sistemas, rotinas administrativas e apoio em processos financeiros.
 
+Estou sempre em busca de crescimento profissional e novos desafios na área de TI e desenvolvimento.
 
-        
 ---
 
-## ⚙️ Tecnologias que utilizo
+## 🧠 Stack Tecnológica
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,git,github,html,css,vscode" />
@@ -44,38 +35,59 @@ Sou uma profissional da área de Tecnologia da Informação, com experiência em
 
 ---
 
-## 📊 Experiência
+## 🖥️ Ambiente de Trabalho
+    ┌──────────────────────┐
+    │      WORKSTATION     │
+    │   Full Stack Mode    │
+    └─────────┬────────────┘
+              │
+    ┌─────────▼────────────┐
+    │   💻 DEV TERMINAL    │
+    │  Code • Debug • Build│
+    └──────────────────────┘
+
+    
+---
+
+## 📊 Experiência Profissional
 
 - 🖥️ Suporte Técnico e Help Desk  
 - 🖨️ Manutenção de impressoras e sistemas internos  
-- 📊 Assistente Administrativo Financeiro  
-- 💳 Apoio em rotinas financeiras e pagamentos  
-- 🔧 Resolução de problemas técnicos gerais  
+- 📊 Assistente Administrativo e Financeiro  
+- 💳 Controle de pagamentos e rotinas administrativas  
+- 🔧 Diagnóstico e resolução de problemas técnicos  
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos em Destaque
 
-📌 Sistema Institucional  
-📌 Portfólio Pessoal  
-📌 Projetos de estudo em React e Node.js  
+📌 Sistema Institucional (em desenvolvimento)  
+📌 Portfólio Pessoal no GitHub  
+📌 Projetos com React e Node.js  
+📌 Automação e scripts básicos  
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo Profissional
 
-Atuar na área de Tecnologia da Informação, com foco em suporte técnico, desenvolvimento e crescimento profissional na área de TI.
+Atuar como profissional de TI ou suporte técnico, contribuindo com soluções eficientes, aprendizado contínuo e crescimento dentro da área de tecnologia e desenvolvimento.
 
 ---
 
 ## 📫 Contato
 
 <p align="center">
-  💼 LinkedIn | 📧 Email | 💻 GitHub
+
+💼 LinkedIn: <a href="https://www.linkedin.com/in/jeniffercarvalho">jeniffercarvalho</a><br><br>
+
+📧 Email: <a href="mailto:jeni.silva.sj@gmail.com">jeni.silva.sj@gmail.com</a><br><br>
+
+📱 WhatsApp: <a href="https://wa.me/5521994267733">21 99426-7733</a>
+
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil!
+  ⭐ "Tecnologia é transformar problemas em soluções." ⭐
 </p>
