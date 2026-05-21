@@ -20,12 +20,6 @@
 
 ---
 
-Atuo na área de Tecnologia da Informação com experiência em suporte técnico, manutenção de sistemas, rotinas administrativas e apoio em processos financeiros.
-
-Estou sempre em busca de crescimento profissional e novos desafios na área de TI e desenvolvimento.
-
----
-
 ## 🧠 Stack Tecnológica
 
 <p align="center">
