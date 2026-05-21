@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/developer.gif" width="220px">
+<img src="https://media.giphy.com/media/coxQHKASG60HrTtvkt/giphy.gif" width="220px">
 
 </div>
 
@@ -26,6 +26,15 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,git,github,html,css,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -73,15 +82,15 @@ Atuar na área de tecnologia da informação ou suporte técnico, contribuindo c
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jeniffercarvalho">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="35">
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:jeni.silva.sj@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="35">
+  <img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://wa.me/5521994267733">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="35">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 </p>
