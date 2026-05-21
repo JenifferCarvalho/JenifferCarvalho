@@ -22,8 +22,13 @@
 ---
 
 ## 👋 Sobre mim
+## 👋 Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em suporte técnico, atendimento ao cliente e desenvolvimento web.
+Profissional da área de Tecnologia da Informação, com foco em desenvolvimento web e suporte técnico.
+
+Atuação voltada para criação de soluções, desenvolvimento de aplicações e suporte a sistemas, com interesse constante em evolução técnica e boas práticas de programação.
+
+Perfil organizado, proativo e com facilidade para adaptação a novas tecnologias e ambientes de trabalho.
 
 ---
 
