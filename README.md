@@ -44,6 +44,26 @@
 
 ---
 
+## 🎮 Mini Game Tech
+
+<p align="center">
+  💻 <b>Hacker Terminal Challenge</b><br><br>
+</p>
+
+<p align="center">
+
+<a href="https://play2048.co/" target="_blank">
+  <img src="https://img.shields.io/badge/JOGAR-2048%20DEV%20MODE-7C3AED?style=for-the-badge&logo=gamepad&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  🎯 Um jogo leve de lógica e estratégia — estilo dev thinking 🧠
+</p>
+
+---
+
 ## 📊 Experiência Profissional
 
 - 🖥️ Suporte técnico (help desk), resolução de problemas em sistemas, computadores e impressoras  
@@ -55,8 +75,6 @@
 ---
 
 ## 📌 Projetos
-
----
 
 ### 💻 SBS Tecnologia Móvel
 
@@ -104,29 +122,29 @@
 
 ---
 
-## 🎯 Objetivo Profissional
-
-Atuar na área de tecnologia da informação ou suporte técnico, contribuindo com soluções eficientes, aprendizado contínuo e evolução profissional.
-
----
-
 ## 📫 Contato
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jeniffercarvalho" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" style="margin: 0 14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" />
 </a>
 
 <a href="mailto:jeni.silva.sj@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" style="margin: 0 14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" />
 </a>
 
 <a href="https://wa.me/5521994267733" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" style="margin: 0 14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" />
 </a>
 
 </p>
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar na área de tecnologia da informação ou suporte técnico, contribuindo com soluções eficientes, aprendizado contínuo e evolução profissional.
 
 ---
 
