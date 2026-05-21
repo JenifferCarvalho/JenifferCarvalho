@@ -56,24 +56,51 @@
 
 ## 📌 Projetos
 
-### 💻 SBS Tecnologia Móvel
-🧠 Projeto institucional de tecnologia e soluções móveis  
+---
 
-<p align="center">
-  <img src="sbs_02.jpg" width="180px">
-</p>
+### 💻 SBS Tecnologia Móvel
+
+<table>
+  <tr>
+    <td width="200">
+      <img src="sbs_02.jpg" width="180px">
+    </td>
+    <td>
+
+🧠 <b>Projeto institucional de tecnologia e soluções móveis</b>
+
+✔ Site institucional  
+✔ Foco em serviços e suporte  
+✔ Interface simples e profissional  
+
+🔗 https://sbstecnologiamovel
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 💻 Nutri Ana Clara Almeida
-🧠 Projeto institucional na área da saúde e nutrição  
 
-<p align="center">
-  <img src="nutricionista_01.jpg" width="180px">
-</p>
+<table>
+  <tr>
+    <td width="200">
+      <img src="nutricionista_01.jpg" width="180px">
+    </td>
+    <td>
 
----
+🧠 <b>Projeto institucional na área da saúde e nutrição</b>
 
+✔ Apresentação profissional  
+✔ Layout informativo  
+✔ Foco em serviços e contato  
+
+🔗 http://nutrianaclaraalmeida
+
+    </td>
+  </tr>
+</table>
 ## 🎯 Objetivo Profissional
 
 Atuar na área de tecnologia da informação ou suporte técnico, contribuindo com soluções eficientes, aprendizado contínuo e evolução profissional.
