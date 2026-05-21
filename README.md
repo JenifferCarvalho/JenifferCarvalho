@@ -54,3 +54,96 @@ coding • learning • growing
 <div align="center">
 
 💻 <b>Desafio de Programação</b>
+
+
+🧠 Encontre o erro como uma dev real 💡
+
+</div>
+
+---
+
+## 📊 Experiência Profissional
+
+- 🖥️ Suporte técnico (help desk), resolução de problemas em sistemas, computadores e impressoras  
+- 🖨️ Manutenção básica de impressoras  
+- 📊 Assistente Administrativo e Financeiro  
+- 💳 Controle de pagamentos e rotinas financeiras  
+- 🔧 Suporte ao gestor de TI em sistemas internos  
+
+---
+
+## 📌 Projetos
+
+### 💻 SBS Tecnologia Móvel
+
+<table>
+<tr>
+<td width="200">
+<img src="sbs_02.jpg" width="180px">
+</td>
+<td>
+
+🧠 Projeto institucional de tecnologia e soluções móveis  
+✔ Suporte e serviços  
+✔ Interface profissional  
+
+🔗 https://sbstecnologiamovel  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 Nutri Ana Clara Almeida
+
+<table>
+<tr>
+<td width="200">
+<img src="nutricionista_01.jpg" width="180px">
+</td>
+<td>
+
+🧠 Projeto institucional na área da saúde e nutrição  
+✔ Apresentação profissional  
+✔ Layout informativo  
+
+🔗 http://nutrianaclaraalmeida  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar na área de tecnologia da informação ou suporte técnico, contribuindo com soluções eficientes, aprendizado contínuo e evolução profissional.
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jeniffercarvalho">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40">
+</a>
+
+<a href="mailto:jeni.silva.sj@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40">
+</a>
+
+<a href="https://wa.me/5521994267733">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+⭐ “Tecnologia é transformar problemas em soluções com criatividade e propósito.” ⭐
+
+</div>
