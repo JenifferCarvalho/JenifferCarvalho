@@ -33,18 +33,19 @@ Estou sempre em busca de crescimento profissional e novos desafios na área de T
 </p>
 
 ---
+## 🎀 Ambiente de Trabalho
 
-## 🖥️ Ambiente de Trabalho
-
-    ┌──────────────────────┐
-    │      WORKSTATION     │
-    │   Full Stack Mode    │
-    └─────────┬────────────┘
-              │
-    ┌─────────▼────────────┐
-    │   💻 DEV TERMINAL    │
-    │  Code • Debug • Build│
-    └──────────────────────┘
+<p align="center" style="color:#ff4fd8; font-weight:bold;">
+┌──────────────────────────────┐<br>
+│ 💙 WORKSTATION FEMININA TECH │<br>
+│ 💻 Coding • Learning • Growing │<br>
+└──────────────┬───────────────┘<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│<br>
+┌──────────────▼───────────────┐<br>
+│ 💻 DEV MODE ON               │<br>
+│ ⚡ Build • Debug • Deploy    │<br>
+└──────────────────────────────┘
+</p>
 
 ---
 
@@ -64,7 +65,7 @@ Estou sempre em busca de crescimento profissional e novos desafios na área de T
 
 <p align="center">
   <a href="https://sbstecnologiamovel">
-    <img src="sbs_02.jpg" width="300px">
+    <img src="sbs_02.jpg" width="150px">
   </a>
 </p>
 
@@ -76,7 +77,7 @@ Estou sempre em busca de crescimento profissional e novos desafios na área de T
 
 <p align="center">
   <a href="http://nutrianaclaraalmeida">
-    <img src="nutricionista_01.jpg" width="300px">
+    <img src="nutricionista_01.jpg" width="150px">
   </a>
 </p>
 
