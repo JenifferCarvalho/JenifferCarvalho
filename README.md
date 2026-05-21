@@ -87,19 +87,20 @@ Atuar como profissional de TI ou suporte técnico, contribuindo com soluções e
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jeniffercarvalho" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" style="margin: 0 10px; transition: 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="42" style="margin: 0 10px;" />
 </a>
 
 <a href="mailto:jeni.silva.sj@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" style="margin: 0 10px; transition: 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="42" style="margin: 0 10px;" />
 </a>
 
 <a href="https://wa.me/5521994267733" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="42" style="margin: 0 10px; transition: 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="42" style="margin: 0 10px;" />
 </a>
 
 </p>
 
+---
 <p align="center">
   ⭐ "Tecnologia é transformar problemas em soluções." ⭐
 </p>
