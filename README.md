@@ -1,58 +1,81 @@
-# 👋 Olá, seja bem-vindo!
+<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu portfólio!</h1>
 
-## 💻 Desenvolvedora Full Stack | Suporte TI
-
----
-
-### 🧠 Sobre mim
-
-Profissional com experiência em **suporte técnico, help desk e rotinas administrativas**, além de conhecimentos em desenvolvimento web.
-
-Foco em resolver problemas, otimizar processos e criar soluções eficientes.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</p>
 
 ---
 
-### ⚙️ Tecnologias
+## 💻 Sobre mim
 
-<div align="center">
+┌───────────────────────────────┐
+│ 👩‍💻 Profissional de TI │
+│ 🎯 Foco: Suporte & Dev │
+│ 🚀 Evoluindo constantemente │
+└───────────────────────────────┘
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
-</div>
+Sou uma profissional da área de Tecnologia da Informação, com experiência em suporte técnico, rotinas administrativas e apoio a sistemas internos.
 
 ---
 
-### 📊 Experiência
+## 🖥️ Meu Setup / Área de Trabalho
 
-- Suporte técnico e Help Desk  
-- Manutenção de computadores e sistemas  
-- Atendimento a usuários internos  
-- Controle administrativo e financeiro  
-- Apoio direto à equipe de TI  
+    ______________________
+   |                      |
+   |      DESKTOP        |
+   |______________________|
+         |        |
+     ____|________|____
+    |   💻 PC DEV       |
+    |___________________|
+          |      |
+        (____)(____)
+
+
+        
+---
+
+## ⚙️ Tecnologias que utilizo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,git,github,html,css,vscode" />
+</p>
 
 ---
 
-### 📂 Projetos
+## 📊 Experiência
 
-- 🔹 Sistema de portfólio pessoal (HTML/CSS/JS)
-- 🔹 Projeto institucional fictício (ex: nutricionista)
-- 🔹 Sistemas de suporte e organização interna
-
----
-
-### 📫 Contato
-
-- 💼 LinkedIn: [seu-link-aqui]
-- 📧 Email: seuemail@exemplo.com
-- 📍 Belford Roxo - RJ
+- 🖥️ Suporte Técnico e Help Desk  
+- 🖨️ Manutenção de impressoras e sistemas internos  
+- 📊 Assistente Administrativo Financeiro  
+- 💳 Apoio em rotinas financeiras e pagamentos  
+- 🔧 Resolução de problemas técnicos gerais  
 
 ---
 
-### 🚀 Status
+## 🚀 Projetos
 
-🟢 Disponível para oportunidades em TI / Desenvolvimento
+📌 Sistema Institucional  
+📌 Portfólio Pessoal  
+📌 Projetos de estudo em React e Node.js  
+
+---
+
+## 🎯 Objetivo
+
+Atuar na área de Tecnologia da Informação, com foco em suporte técnico, desenvolvimento e crescimento profissional na área de TI.
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  💼 LinkedIn | 📧 Email | 💻 GitHub
+</p>
+
+---
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
+</p>
