@@ -5,7 +5,7 @@
 💻 Desenvolvedora Full Stack | Suporte Técnico | Help Desk  
 
 <br>
-<img src="https://github.com/abhisheknaiidu/awesome-github-profile-readme/raw/master/assets/developer.gif" width="220px">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/developer.gif" width="220px">
 
 </div>
 
