@@ -100,7 +100,6 @@ Atuar como profissional de TI ou suporte técnico, contribuindo com soluções e
 
 </p>
 
----
 <p align="center">
   ⭐ "Tecnologia é transformar problemas em soluções." ⭐
 </p>
