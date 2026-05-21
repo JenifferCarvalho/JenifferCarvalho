@@ -106,25 +106,23 @@
 Atuar na área de tecnologia da informação ou suporte técnico, contribuindo com soluções eficientes, aprendizado contínuo e evolução profissional.
 
 ---
-
 ## 📫 Contato
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jeniffercarvalho" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="38" style="margin: 0 12px;" />
 </a>
 
 <a href="mailto:jeni.silva.sj@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EC4899?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="38" style="margin: 0 12px;" />
 </a>
 
 <a href="https://wa.me/5521994267733" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-22C55E?style=flat-square&logo=whatsapp&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="38" style="margin: 0 12px;" />
 </a>
 
 </p>
-
 ---
 
 <p align="center">
