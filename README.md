@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 💻 Sobre mim
 
 👩‍💻 Profissional de Tecnologia da Informação com experiência em suporte técnico, help desk, manutenção de sistemas e rotinas administrativas.
 
