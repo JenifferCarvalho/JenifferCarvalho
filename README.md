@@ -32,7 +32,7 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 
 ## 📊 Experiência Profissional
 
-### 🏢 :contentReference[oaicite:0]{index=0}  
+🏢 R11 Comércio de Peças e Acessórios
  2018 – 2022  
 💼 **Assistente Administrativo e Financeiro | Suporte Técnico (Help Desk)**
 
