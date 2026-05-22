@@ -68,7 +68,7 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 
 ## 🎯 Objetivo Profissional
 
-Atuar na área de tecnologia da informação ou suporte técnico, contribuindo com soluções eficientes, aprendizado contínuo e evolução profissional.
+Busco oportunidades na área de Tecnologia da Informação, com interesse em Desenvolvimento Front-end e Suporte Técnico, contribuindo com aprendizado contínuo, organização e soluções eficientes.
 
 ---
 
