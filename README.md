@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou a Jeniffer Carvalho  
 
-💻 Full Stack Developer em formação| Suporte Técnico | Help Desk  
+💻 Full Stack Developer em formação| Suporte Técnico
 
 <br>
 
