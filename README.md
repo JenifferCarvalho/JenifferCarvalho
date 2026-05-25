@@ -75,7 +75,7 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 ✔ Apresentação institucional da empresa  
 ✔ Layout moderno e navegação intuitiva  
 
-🔗 https: sbstecnologiamovel/sbstecnologiamovel
+🔗 https:sbstecnologiamovel/sbstecnologiamovel/
 
 ---
 
