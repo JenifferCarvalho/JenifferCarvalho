@@ -64,7 +64,7 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 ✔ Site informativo profissional  
 ✔ Layout moderno  
 
-🔗 https://github.com/Nutri-Ana-Clara-Almeida/nutrianaclara 
+🔗 https://nutri-ana-clara-almeida.github.io/nutrianaclara/
 
 ---
 ### 📱 SBS Tecnologia Móvel
