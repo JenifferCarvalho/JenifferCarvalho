@@ -46,13 +46,15 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 
 ## 📌 Projetos
 
-### 💻 SBS Tecnologia Móvel
+### 💻 Portfólio Profissional
 
-🧠 Projeto institucional de tecnologia e soluções móveis  
-✔ Suporte e serviços  
-✔ Interface profissional  
+🚀 Projeto pessoal desenvolvido para apresentar minha trajetória acadêmica, habilidades técnicas e projetos na área de Desenvolvimento de Sistemas.
 
-🔗 https://github.com/sbstecnologiamovel/sbstecnologiamovel  
+✔ Design moderno e responsivo  
+✔ Apresentação de projetos e tecnologias  
+✔ Integração com GitHub e redes profissionais  
+
+🔗 https://jeniffercarvalho.github.io/portfoliojeniffercarvalho/
 
 ---
 
@@ -63,6 +65,17 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 ✔ Layout moderno  
 
 🔗 https://github.com/Nutri-Ana-Clara-Almeida/nutrianaclara  
+
+---
+### 📱 SBS Tecnologia Móvel
+
+🧠 Projeto institucional voltado para tecnologia, suporte técnico e soluções digitais para empresas e usuários.
+
+✔ Serviços de suporte e manutenção tecnológica  
+✔ Apresentação institucional da empresa  
+✔ Layout moderno e navegação intuitiva  
+
+🔗 https://github.com/sbstecnologiamovel/sbstecnologiamovel
 
 ---
 
